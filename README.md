@@ -13,7 +13,7 @@ study guide website and how they all work together
 
 ## Usage
 
-- To alter this study guide: launch the HTML file and add notes as needed to the <ul> sections under each respective study topic. 
+- To alter this study guide: launch the HTML file and add notes as needed to the "ul" sections under each respective study topic. 
 
 ## Credits
 
